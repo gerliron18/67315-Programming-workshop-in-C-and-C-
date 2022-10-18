@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TESTERS"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\unit_tests\;CMake Files\tree_visualizer\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/cmake-build-debug/unit_tests"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/User/Documents/Computitional\ Biology/Year3/Semester\ A/Programming\ workshop\ in\ C\ and\ C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/User/Documents/Computitional\ Biology/Year3/Semester\ A/Programming\ workshop\ in\ C\ and\ C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/User/Documents/Computitional\ Biology/Year3/Semester\ A/Programming\ workshop\ in\ C\ and\ C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/User/Documents/Computitional\ Biology/Year3/Semester\ A/Programming\ workshop\ in\ C\ and\ C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_my_impl">
+				<Option output="/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/test_my_impl.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/cmake-build-debug/unit_tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/User/Documents/Computitional\ Biology/Year3/Semester\ A/Programming\ workshop\ in\ C\ and\ C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/Makefile&quot;  VERBOSE=1 test_my_impl"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/User/Documents/Computitional\ Biology/Year3/Semester\ A/Programming\ workshop\ in\ C\ and\ C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/User/Documents/Computitional\ Biology/Year3/Semester\ A/Programming\ workshop\ in\ C\ and\ C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/User/Documents/Computitional\ Biology/Year3/Semester\ A/Programming\ workshop\ in\ C\ and\ C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_my_impl/fast">
+				<Option output="/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/test_my_impl.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/cmake-build-debug/unit_tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/User/Documents/Computitional\ Biology/Year3/Semester\ A/Programming\ workshop\ in\ C\ and\ C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/Makefile&quot;  VERBOSE=1 test_my_impl/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/User/Documents/Computitional\ Biology/Year3/Semester\ A/Programming\ workshop\ in\ C\ and\ C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/User/Documents/Computitional\ Biology/Year3/Semester\ A/Programming\ workshop\ in\ C\ and\ C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/User/Documents/Computitional\ Biology/Year3/Semester\ A/Programming\ workshop\ in\ C\ and\ C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_school_impl">
+				<Option output="/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/test_school_impl.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/cmake-build-debug/unit_tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSING_SCHOOL_SOLUTION"/>
+					<Add directory="/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/User/Documents/Computitional\ Biology/Year3/Semester\ A/Programming\ workshop\ in\ C\ and\ C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/Makefile&quot;  VERBOSE=1 test_school_impl"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/User/Documents/Computitional\ Biology/Year3/Semester\ A/Programming\ workshop\ in\ C\ and\ C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/User/Documents/Computitional\ Biology/Year3/Semester\ A/Programming\ workshop\ in\ C\ and\ C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/User/Documents/Computitional\ Biology/Year3/Semester\ A/Programming\ workshop\ in\ C\ and\ C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_school_impl/fast">
+				<Option output="/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/test_school_impl.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/cmake-build-debug/unit_tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSING_SCHOOL_SOLUTION"/>
+					<Add directory="/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/User/Documents/Computitional\ Biology/Year3/Semester\ A/Programming\ workshop\ in\ C\ and\ C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/Makefile&quot;  VERBOSE=1 test_school_impl/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/User/Documents/Computitional\ Biology/Year3/Semester\ A/Programming\ workshop\ in\ C\ and\ C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/User/Documents/Computitional\ Biology/Year3/Semester\ A/Programming\ workshop\ in\ C\ and\ C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/User/Documents/Computitional\ Biology/Year3/Semester\ A/Programming\ workshop\ in\ C\ and\ C++/Exercises/C_Ex3/cmake-build-debug/unit_tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/unit_tests/catch.hpp">
+			<Option target="test_my_impl"/>
+			<Option target="test_school_impl"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/unit_tests/structs_tests.cpp">
+			<Option target="test_my_impl"/>
+			<Option target="test_school_impl"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/unit_tests/tree_tests.cpp">
+			<Option target="test_my_impl"/>
+			<Option target="test_school_impl"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/unit_tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\unit_tests\"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/tree_visualizer/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tree_visualizer\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

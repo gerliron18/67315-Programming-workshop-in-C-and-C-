@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../RBTree.h
+
+/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/tree_visualizer/graph_drawer.cpp
+graph_drawer.h
+/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/tree_visualizer/graph_drawer.h
+utility
+-
+util.hpp
+/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/tree_visualizer/util.hpp
+
+/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/tree_visualizer/graph_drawer.h
+RBTree.h
+/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/tree_visualizer/RBTree.h
+
+/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/tree_visualizer/util.hpp
+iterator
+-
+string
+-
+vector
+-
+iostream
+-
+sstream
+-
+set
+-
+functional
+-
+cctype
+-
+iomanip
+-
+utility
+-
+RBTree.h
+/cygdrive/c/Users/User/Documents/Computitional Biology/Year3/Semester A/Programming workshop in C and C++/Exercises/C_Ex3/tree_visualizer/RBTree.h
+cstdlib
+-
+fstream
+-
+cstdlib
+-
+map
+-
+

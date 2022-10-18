@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/test_school_impl.dir/tree_tests.cpp.o CMakeFiles/test_school_impl.dir/structs_tests.cpp.o  -o test_school_impl.exe -Wl,--out-implib,libtest_school_impl.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ../../StructsSchool.a ../../RBTreeSchool.a ../tree_visualizer/libtree_visualizer.a -lstdc++fs 

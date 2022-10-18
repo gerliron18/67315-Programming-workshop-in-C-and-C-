@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libtree_visualizer.a  CMakeFiles/tree_visualizer.dir/graph_drawer.cpp.o
+/usr/bin/ranlib.exe libtree_visualizer.a
