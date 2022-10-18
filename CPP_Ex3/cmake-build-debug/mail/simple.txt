@@ -1,0 +1,18 @@
+hi hello ahoy hi hello ahoy
+
+pharse can be inside a word:
+AAAAhiAAAA BBBBhi hiCCCC
+hellohello
+AahoyY
+
+also valid to get
+also valid to
+also valid
+
+
+dont count that (has new line between words instead of spaces):
+also
+valid
+to
+get
+
