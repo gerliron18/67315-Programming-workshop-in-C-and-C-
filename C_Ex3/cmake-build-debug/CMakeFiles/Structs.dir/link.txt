@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libStructs.a  CMakeFiles/Structs.dir/Structs.c.o
+/usr/bin/ranlib.exe libStructs.a

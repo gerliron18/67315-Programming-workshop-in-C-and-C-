@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/product_example_school.dir/ProductExample.c.o  -o product_example_school.exe -Wl,--out-implib,libproduct_example_school.dll.a -Wl,--major-image-version,0,--minor-image-version,0 ../StructsSchool.a ../RBTreeSchool.a tree_visualizer/libtree_visualizer.a 

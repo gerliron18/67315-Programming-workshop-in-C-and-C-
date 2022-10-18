@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/product_example_mine.dir/ProductExample.c.o  -o product_example_mine.exe -Wl,--out-implib,libproduct_example_mine.dll.a -Wl,--major-image-version,0,--minor-image-version,0 libex3_lib.a tree_visualizer/libtree_visualizer.a -lm 

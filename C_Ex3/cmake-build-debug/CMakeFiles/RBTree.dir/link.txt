@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libRBTree.a  CMakeFiles/RBTree.dir/RBTree.c.o
+/usr/bin/ranlib.exe libRBTree.a

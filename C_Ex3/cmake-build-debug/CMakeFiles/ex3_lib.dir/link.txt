@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc libex3_lib.a  CMakeFiles/ex3_lib.dir/RBTree.c.o CMakeFiles/ex3_lib.dir/Structs.c.o
+/usr/bin/ranlib.exe libex3_lib.a
